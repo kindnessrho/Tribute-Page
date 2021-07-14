@@ -29,7 +29,7 @@ This is a solution to the [Tribute page challenge on Sidehustle Internship](http
 ### Links
 
 - Solution URL: [My solution](https://github.com/kindnessrho/Tribute-Page)
-- Live Site URL: [Live site](https://fylo-dark-theme-landing-page-challenge-on-frontend-mentor.netlify.app/)
+- Live Site URL: [Live site](https://tributepage-sidehustle.netlify.app/)
 
 ## My process
 
